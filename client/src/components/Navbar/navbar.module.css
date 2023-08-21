@@ -1,0 +1,103 @@
+
+
+.navbox{
+    width: 100%;
+height: 153px;;
+flex-shrink: 0;
+background: #df358a;
+/* color: rgb(7, 58, 88), rgba(216, 236, 246, 0.15), rgba(0, 0, 0, 1), rgba(255, 255, 255, 0); */
+}
+.image{
+    width: 126.027px;
+    height: 97.899px;
+transform: rotate(0.041deg);
+flex-shrink: 0;
+border-radius: 10px;
+/* background: url(<path-to-image>), lightgray 50% / cover no-repeat; */
+mix-blend-mode: luminosity;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+margin-right: 800px;
+margin-top: 6px;
+position: absolute;
+
+}
+.subname{
+    width: 1087px;
+    color: #FFF;
+    font-family: Inika;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 17.92px;
+    text-align: center;
+    margin-left: -15px;
+    position: absolute;
+    margin-top: -8px;
+}
+
+.bluetick{
+    position: absolute;
+    margin-left: 833px;
+    margin-top: 23px;
+}
+.btns{
+    display: flex;
+    align-content: stretch;
+    width: 99%;
+    margin-top: 131px;;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.btn1{
+    background-color: #FFF;
+    border-radius:none;
+    border-color: transparent;
+  
+    
+}
+.btn2{
+    background-color: #ffffff;
+    border-radius:none;
+    border-color: transparent;
+}
+.btn3{
+    background-color: #FFF;
+    border-radius:none;
+    border-color: transparent;
+}
+.searchbar{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+.search{
+    width: 632px;
+    height: 22px;
+    margin-top: 76px;
+    position: absolute;
+    margin-left: 1049px;
+    border-radius: 100px;
+    border: none;
+}
+.btn-login{
+    margin-left: 116px;
+    position: absolute;
+    margin-top: -42px;
+    background-color: rgb(66 156 207);
+    border-radius: 54px;
+    border: none;
+}
+.btn-src{
+    position: absolute;
+    margin-left: 820px;
+    margin-top: 86px;
+    border-radius: 16px;
+    color: #000000;
+    width: 37px;
+    border: none;
+    background-color: white;
+}
+

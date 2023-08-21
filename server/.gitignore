@@ -1,0 +1,7 @@
+/node-modules
+/bulid
+
+#system files
+.DS-Store
+Thumbs.db
+
